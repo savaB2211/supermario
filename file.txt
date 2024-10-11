@@ -1,1 +1,2 @@
 "Feature 1 content" 
+"Conflicting change from feature1" 
